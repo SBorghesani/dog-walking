@@ -23,7 +23,7 @@ document.addEventListener(
                             window.alert(`${pet.name} is being walked by ${assignedWalker.name}`)
                         }
                     }
-                } //return assignedWalker
+                } 
             }
         }
     }
